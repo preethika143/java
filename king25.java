@@ -1,4 +1,4 @@
-public class king24
+public class king25
 {
      static void multi(){
         int a=10;
